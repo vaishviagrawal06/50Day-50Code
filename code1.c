@@ -4,10 +4,10 @@ int main(){
     int n;
     int max,min;
 
-    printf("enter no. of elements");
+    printf("enter no. of elements : ");
     scanf("%d",&n);
 
-    printf("enter %d elements",n);
+    printf("enter %d elements ",n);
 
     for(int i=0;i<n;i++)
     {
