@@ -24,6 +24,7 @@ int main() {
                 break;
             }
         }
+        
         if (!found) {
             unionArr[unionSize++] = b[i];
         }
