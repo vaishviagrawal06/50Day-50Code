@@ -1,3 +1,4 @@
+//kadanes algorithm to find the maximum subarray sum
 #include <stdio.h>
 int kadanse_algo(int arr[], int n) {
     int maxsummarr = arr[0];
@@ -23,3 +24,4 @@ int main() {
 
     return 0;
 }
+
